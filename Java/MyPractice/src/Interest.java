@@ -1,5 +1,4 @@
 package src;
-import java.security.Principal;
 import java.util.Scanner;
 
 public class Interest {
